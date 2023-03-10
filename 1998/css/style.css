@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style-type: none;
+}
+
+.form  {
+    width: 317px;
+    height: 21px;
+}
+
+.form2  {
+    width: 177px;
+    height: 21px;
+}
+
+.btngs{
+    width: 104.91px;
+    height: 21px;
+}
+
+.btnlcky{
+    width: 110.42px;
+    height: 21px;
+}
+
+.btnsc {
+    width: 75.28px;
+    height: 21px;
+    margin-right: 5px
+}
+
+
+/* main start*/
+/* header start */
+img {
+    margin-left: 41%;
+    margin-top: 2mm;
+    width: 351px;
+    height: auto;
+}
+
+/* container div start */
+.item1 {
+    background-color: rgb(238,238,238);
+    text-align: center; 
+    width: 1708px;
+    height: 60px;
+    margin-left: 5%;
+}
+
+.container2 {
+    display: flex;
+    padding: 1px;
+}
+.item2 {
+    background-color: rgb(125,229,218);
+    text-align: center; 
+    width: 670px;
+    height: 76px;
+    margin-left: 5%;
+
+}
+
+.listtp-10 {
+    padding-top: 10px;
+}
+
+.item3 {
+    background-color: #70cbc2;
+    text-align: center; 
+    width: 350px;
+    height: 76px;
+    padding: 2px;
+    margin-left: 2px;
+    font-size: 12px; 
+}
+
+.listtp-5 {
+    padding-top: 5px;
+}
+
+.item4 {
+    background-color: rgb(98,179,170);
+    text-align: center; 
+    width: 682px;
+    height: 76px;
+    padding: 2px;
+    margin-left: 2px;
+    font-size: 14px;
+}
+
+/* container div end */
+/* header end */
+/* main end */
+/* footer start */
+.footer {
+    text-align: center;
+    padding: 16px;
+    font-size: 12px;
+}
+/* footer end  */
