@@ -1,6 +1,6 @@
 # KODLUYORUZ  Google-1998 EXERCİSE SİZLERLE
 
- ## İlk oluşturduğum repoya ve diğer projerlerime ulaşmak için yapmanız gerekenler:
+ ## İletişim bilgilerim:
 * [Github](https://github.com/burakturkster) hesabımı takip etmek
 * [Linkedn](https://www.linkedin.com/in/burak-t%C3%BCrk-aa9aa3176/) üzerinden takip etmek,
 * [Twitter](https://twitter.com/bturkster) üzerinden takip etmek,
