@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style-type: none;
+}
+
+/* main start  */
+/* nav start  */
+.navbar {
+    padding-top: 3px ;
+}
+
+.a1  {
+    list-style-type: none;
+    float: right;
+    margin-right: 9px;
+    padding-top: 19px;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000DE;
+}
+
+.pp  {
+    list-style-type: none;
+    margin-right: 7px;
+    float: right;
+    border-radius: 600px;
+    padding: 10px;
+    width: 50px;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #000000DE;
+}
+
+.app-logo {
+    list-style-type: none;
+    float: right;
+    border-radius: 600px;
+    padding: 15px;
+    width: 53px;
+    margin-left: 10px;
+    margin-top: 1px;
+    cursor: pointer;
+    
+}
+
+.app-logo:hover {
+    background-color: #cecece63;
+}
+
+.pp:hover {
+    background-color: #cecece3d;
+}
+/* nav end    */
+/* container start  */
+
+.googlepng-img{
+    margin: 14%;
+    padding-left: 29%;
+    margin-bottom: 8px;
+    border-color: #000000DE;
+    
+
+}
+.textarea {
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    z-index: 3;
+    height: 44px;
+    margin: 10px auto;
+    width: 582px;
+    border-radius: 50px;
+    
+}
+
+.input-area {
+  color: black;
+  flex: 100%;
+  white-space: pre;
+  font: 16px arial, sans-serif;
+  line-height: 34px;
+  height: 34px !important;
+  display: block;
+  border-style: none;
+  margin-left: 25px;
+  
+}
+
+.textarea:hover {
+    box-shadow: 0px 0px 0px 2px #b8b8b84d;
+}
+
+span .textimgzoomer {
+    color: #9aa0a6;
+    height: 32px;
+    width: 32px;
+    display: inline-block;
+    fill: currentColor;
+    line-height: 25px;
+    position: relative;
+    margin-left: -450px ;
+    margin-bottom: 5px;
+  }
+
+  span .imgsrc {
+    cursor: pointer;
+    margin-right: 6px;
+  }
+
+  span .pad {
+    cursor: pointer;
+    margin-right: 6px;
+    
+  }
+
+  span .mic {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    margin-right: 6px;
+  }
+
+
+.search {   
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+}
+/* container end  */
+/* container2 start  */
+
+.container2 {
+    margin-left: 42%;
+    margin-top: 30px;
+}
+.btn1 {
+background-color: #f8f9fb;
+border-radius: 5px;
+border: 1px solid #f2f2f2;
+color: #3c4043;
+font-size: 14px;
+font-family: arial;
+cursor: pointer;
+padding: 1em;
+text-align: center;
+}
+
+.btn2 {
+margin-left: 25px;
+background-color: #f8f9fb;
+border-radius: 5px;
+border: 1px solid #f2f2f2;
+color: #3c4043;
+font-family: arial;
+cursor: pointer;
+padding: 1em;
+text-align: center;
+}
+
+.btn1:hover {
+    border: 1px solid #cccccc;
+    box-shadow: 0px 5px 10px 0px #b8b8b84d;
+}
+
+.btn2:hover {
+    border: 1px solid #cccccc;
+    box-shadow: 0px 5px 10px 0px #b8b8b84d;
+}
+/* container2 end */
+
+
+/* main end  */
+/* footer start  */
+.footer {
+    margin-top: 19%;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #90939c;
+    
+}
+.footernavp {
+    background-color: #f2f2f2;
+    height: 54.63px;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 1px solid #dfe1e5;
+    display: block;
+}
+
+p {
+    position: relative;
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.footerli {
+    background-color: #f2f2f2;
+    list-style-type: none;
+    display: flex;
+    height: 50.63px;
+}
+
+.li {
+    color: #90939c;
+    margin-top: 18px;
+    margin-left: 33px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footerli-mid {
+    margin-top: 19px;
+    margin-left: 468px;
+    font-size: 14px;
+    text-decoration: none;
+
+}
+
+.mid-li {
+    color: #90939c;
+    text-decoration: none;
+}
+
+.footerli-img {
+    margin-left: -210px;
+    margin-top: 15px;
+    
+}
+
+.footerliright {
+    margin-top: 19px;
+    margin-left: 800px;
+    font-size: 14px;
+}
+
+.lir {
+    color: #90939c;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+/* footer end  */
